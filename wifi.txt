@@ -1,0 +1,15 @@
+视源（云埔路）
+
+1.连接wifi名称为：CVTE
+2.打开浏览器，输入任意网站，将会弹出上网登录页
+3.如果是新同事：用户名为姓名全拼（域帐号），初始密码为：cvte*2015
+4.如果是实习生专用帐号：cvter,密码为：cvte*2015
+
+
+
+视睿（科珠路）
+
+1连接wifi名称：
+NEW        密码 CVTE2014cvte
+meeting    密码 cvt2013good
+public     密码 welcomcvte
